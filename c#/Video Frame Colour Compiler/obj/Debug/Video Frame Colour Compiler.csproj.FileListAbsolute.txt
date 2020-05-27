@@ -19,3 +19,8 @@ C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compile
 C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\bin\Debug\OpenCvSharp.Blob.xml
 C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\bin\Debug\OpenCvSharp.Extensions.xml
 C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\obj\Debug\Video Frame Colour Compiler.csproj.CopyComplete
+C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\bin\Debug\en\Video Frame Colour Compiler.resources.dll
+C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\obj\Debug\Video_Frame_Colour_Compiler.Form1.en.resources
+C:\Users\juwon\Desktop\Projects\Video_Frame_Colour\c#\Video Frame Colour Compiler\obj\Debug\en\Video Frame Colour Compiler.resources.dll

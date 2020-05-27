@@ -117,10 +117,847 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;numberThreadsLabel.Name" xml:space="preserve">
+    <value>numberThreadsLabel</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="inputText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 40</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="outputLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;framesText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;maxThreadSubLabel.Name" xml:space="preserve">
+    <value>maxThreadSubLabel</value>
+  </data>
+  <data name="&gt;&gt;framesLabel.Name" xml:space="preserve">
+    <value>framesLabel</value>
+  </data>
+  <data name="progressLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="framesText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 120</value>
+  </data>
+  <data name="&gt;&gt;widthStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;quitButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="videoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 250</value>
+  </data>
+  <data name="framesText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 21</value>
+  </data>
+  <data name="&gt;&gt;framesSubLabel.Name" xml:space="preserve">
+    <value>framesSubLabel</value>
+  </data>
+  <data name="framesSubLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="inputText.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Name" xml:space="preserve">
+    <value>resetButton</value>
+  </data>
+  <data name="maxThreadLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="widthLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsStatus.Name" xml:space="preserve">
+    <value>numberThreadsStatus</value>
+  </data>
+  <data name="numberThreadsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="widthLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="outputText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 21</value>
+  </data>
+  <data name="totalFramesStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 340</value>
+  </data>
+  <data name="framesText.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;statusStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="framesSubLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 15</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="widthStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;inputButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="framesLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;videoStatus.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;framesLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="videoStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="totalFramesLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;framesSubLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="statusStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 430</value>
+  </data>
+  <data name="inputLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="&gt;&gt;outputDialog.Name" xml:space="preserve">
+    <value>outputDialog</value>
+  </data>
+  <data name="outputLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;heightLabel.Name" xml:space="preserve">
+    <value>heightLabel</value>
+  </data>
+  <data name="&gt;&gt;outputText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="maxThreadLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 20</value>
+  </data>
+  <data name="maxThreadNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 170</value>
+  </data>
+  <data name="progressBar.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;selectThreadNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="numberThreadsStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;framesLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="selectThreadNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 21</value>
+  </data>
+  <data name="outputLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 20</value>
+  </data>
+  <data name="inputButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 21</value>
+  </data>
+  <data name="&gt;&gt;maxThreadNumber.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="widthStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="resetButton.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="outputButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>458, 80</value>
+  </data>
+  <data name="&gt;&gt;framesSubLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="statusLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;progressBar.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="numberThreadsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 370</value>
+  </data>
+  <data name="statusLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="progressLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 400</value>
+  </data>
+  <data name="maxThreadSubLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;quitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;widthLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;outputButton.Name" xml:space="preserve">
+    <value>outputButton</value>
+  </data>
+  <data name="&gt;&gt;framesText.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="numberThreadsLabel.Text" xml:space="preserve">
+    <value>Number of active threads:</value>
+  </data>
+  <data name="framesLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;inputLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="outputButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 21</value>
+  </data>
+  <data name="inputLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;totalFramesLabel.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;outputDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="outputLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;statusLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="totalFramesLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 20</value>
+  </data>
+  <data name="numberThreadsStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 370</value>
+  </data>
+  <data name="&gt;&gt;framesText.Name" xml:space="preserve">
+    <value>framesText</value>
+  </data>
+  <data name="videoLabel.Text" xml:space="preserve">
+    <value>Video: </value>
+  </data>
+  <data name="heightLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 280</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;inputLabel.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;outputLabel.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="quitButton.Text" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="widthLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="maxThreadLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;inputButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="numberThreadsLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="progressLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 20</value>
+  </data>
+  <data name="&gt;&gt;maxThreadNumber.Name" xml:space="preserve">
+    <value>maxThreadNumber</value>
+  </data>
+  <data name="&gt;&gt;quitButton.Name" xml:space="preserve">
+    <value>quitButton</value>
+  </data>
+  <data name="&gt;&gt;heightLabel.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;inputText.Name" xml:space="preserve">
+    <value>inputText</value>
+  </data>
+  <data name="inputText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 21</value>
+  </data>
+  <data name="&gt;&gt;maxThreadLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;inputText.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="numberThreadsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 20</value>
+  </data>
+  <data name="maxThreadNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 21</value>
+  </data>
+  <data name="&gt;&gt;heightStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;widthLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;statusLabel.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="totalFramesLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="startButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 486</value>
+  </data>
+  <data name="widthLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 310</value>
+  </data>
+  <data name="numberThreadsLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="quitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="maxThreadLabel.Text" xml:space="preserve">
+    <value>Number of threads</value>
+  </data>
+  <data name="statusLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="progressBar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 400</value>
+  </data>
+  <data name="progressLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="outputButton.Text" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="inputButton.Text" xml:space="preserve">
+    <value>Video</value>
+  </data>
+  <data name="&gt;&gt;statusLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="outputText.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="maxThreadSubLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>117, 15</value>
+  </data>
+  <data name="outputText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 80</value>
+  </data>
+  <data name="totalFramesStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="heightLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="videoStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="widthStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 310</value>
+  </data>
+  <data name="heightLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="framesLabel.Text" xml:space="preserve">
+    <value>Number of frames to scan</value>
+  </data>
+  <data name="framesLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 20</value>
+  </data>
+  <data name="&gt;&gt;selectThreadNumber.Name" xml:space="preserve">
+    <value>selectThreadNumber</value>
+  </data>
+  <data name="videoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 20</value>
+  </data>
+  <data name="videoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;maxThreadLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;widthStatus.Name" xml:space="preserve">
+    <value>widthStatus</value>
+  </data>
+  <data name="totalFramesStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="framesSubLabel.Text" xml:space="preserve">
+    <value>Empty for whole video</value>
+  </data>
+  <data name="heightStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="&gt;&gt;widthStatus.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Name" xml:space="preserve">
+    <value>progressLabel</value>
+  </data>
+  <data name="&gt;&gt;statusStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="framesLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 120</value>
+  </data>
+  <data name="quitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="widthLabel.Text" xml:space="preserve">
+    <value>Width: </value>
+  </data>
+  <data name="widthStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="inputLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 40</value>
+  </data>
+  <data name="&gt;&gt;outputLabel.Name" xml:space="preserve">
+    <value>outputLabel</value>
+  </data>
+  <data name="&gt;&gt;selectThreadNumber.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;quitButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;outputText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;selectThreadNumber.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="heightLabel.Text" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="&gt;&gt;widthStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="heightStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="progressLabel.Text" xml:space="preserve">
+    <value>Current progress:</value>
+  </data>
+  <data name="framesLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Video Frame Colour Compiler</value>
+  </data>
+  <data name="&gt;&gt;totalFramesStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;framesSubLabel.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="heightStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="videoStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;maxThreadNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsStatus.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;outputText.Name" xml:space="preserve">
+    <value>outputText</value>
+  </data>
+  <data name="&gt;&gt;framesText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="statusLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="inputLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 20</value>
+  </data>
+  <data name="resetButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>93, 486</value>
+  </data>
+  <data name="&gt;&gt;maxThreadSubLabel.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;inputText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="totalFramesLabel.Text" xml:space="preserve">
+    <value>Total Frames: </value>
+  </data>
+  <data name="videoStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 250</value>
+  </data>
+  <data name="outputLabel.Text" xml:space="preserve">
+    <value>Select output location</value>
+  </data>
+  <data name="&gt;&gt;heightStatus.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;maxThreadSubLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="videoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;heightLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="outputButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="progressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>299, 23</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="outputLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 80</value>
+  </data>
+  <data name="statusStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;inputLabel.Name" xml:space="preserve">
+    <value>inputLabel</value>
+  </data>
+  <data name="&gt;&gt;maxThreadLabel.Name" xml:space="preserve">
+    <value>maxThreadLabel</value>
+  </data>
+  <data name="numberThreadsStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;statusStatus.Name" xml:space="preserve">
+    <value>statusStatus</value>
+  </data>
+  <data name="maxThreadSubLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;outputButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;startButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="totalFramesStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;totalFramesStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="selectThreadNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;totalFramesLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;widthLabel.Name" xml:space="preserve">
+    <value>widthLabel</value>
+  </data>
+  <data name="&gt;&gt;startButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;resetButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;outputButton.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;inputText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;outputText.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="inputButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="heightLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="numberThreadsStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="statusLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 430</value>
+  </data>
+  <data name="framesSubLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 145</value>
+  </data>
+  <data name="&gt;&gt;maxThreadSubLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="videoStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="inputLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;inputLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="statusStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="widthStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;videoStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="resetButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;maxThreadNumber.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;outputLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;framesLabel.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="videoLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="framesSubLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;videoStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="heightStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 280</value>
+  </data>
+  <data name="maxThreadNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="heightStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="maxThreadSubLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 195</value>
+  </data>
+  <data name="&gt;&gt;heightStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="maxThreadSubLabel.Text" xml:space="preserve">
+    <value>Empty for maximum</value>
+  </data>
+  <data name="&gt;&gt;outputButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="quitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 486</value>
+  </data>
+  <data name="startButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="startButton.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="statusLabel.Text" xml:space="preserve">
+    <value>Status: </value>
+  </data>
+  <data name="resetButton.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Name" xml:space="preserve">
+    <value>progressBar</value>
+  </data>
+  <data name="startButton.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;heightStatus.Name" xml:space="preserve">
+    <value>heightStatus</value>
+  </data>
+  <data name="&gt;&gt;outputLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="maxThreadLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="inputButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>458, 40</value>
+  </data>
+  <data name="&gt;&gt;startButton.Name" xml:space="preserve">
+    <value>startButton</value>
+  </data>
+  <data name="selectThreadNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 170</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Name" xml:space="preserve">
+    <value>videoLabel</value>
+  </data>
+  <data name="statusStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>11, 15</value>
+  </data>
+  <data name="inputLabel.Text" xml:space="preserve">
+    <value>Select video</value>
+  </data>
+  <data name="&gt;&gt;videoStatus.Name" xml:space="preserve">
+    <value>videoStatus</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="heightLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 20</value>
+  </data>
+  <data name="&gt;&gt;statusLabel.Name" xml:space="preserve">
+    <value>statusLabel</value>
+  </data>
+  <data name="&gt;&gt;inputDialog.Name" xml:space="preserve">
+    <value>inputDialog</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;inputButton.Name" xml:space="preserve">
+    <value>inputButton</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>563, 551</value>
+  </data>
+  <data name="&gt;&gt;totalFramesStatus.Name" xml:space="preserve">
+    <value>totalFramesStatus</value>
+  </data>
+  <data name="totalFramesLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 340</value>
+  </data>
+  <data name="progressLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;widthLabel.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="totalFramesStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;inputButton.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;startButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;totalFramesStatus.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;maxThreadLabel.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="numberThreadsStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="totalFramesLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="statusStatus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;totalFramesLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="widthLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 20</value>
+  </data>
+  <data name="&gt;&gt;numberThreadsLabel.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="maxThreadLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 170</value>
+  </data>
+  <data name="&gt;&gt;totalFramesLabel.Name" xml:space="preserve">
+    <value>totalFramesLabel</value>
+  </data>
+  <data name="&gt;&gt;heightLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;inputDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;statusStatus.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <metadata name="inputDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="outputDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>159, 17</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
 </root>
