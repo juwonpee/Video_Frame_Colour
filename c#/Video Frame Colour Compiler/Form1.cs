@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-
-using System.Management;
 
 namespace Video_Frame_Colour_Compiler
 {
@@ -35,8 +27,7 @@ namespace Video_Frame_Colour_Compiler
                 statusStatus.Text = "Imported video";
                 inputText.Text = inputDialog.FileName;
                 videoStatus.Text = inputDialog.FileName;
-                heightStatus.Text = opencvEngine.getHeight().ToString();
-                widthStatus.Text = opencvEngine.getWidth().ToString();
+                dimentionsStatus.Text = opencvEngine.getWidth().ToString();
                 totalFramesStatus.Text = opencvEngine.getLength().ToString();
             }
 
@@ -73,5 +64,7 @@ namespace Video_Frame_Colour_Compiler
             progressBar.Minimum = 0;
             progressBar.Maximum = opencvEngine.getCurrentFrame();
         }
+
+
     }
 }

@@ -81,7 +81,9 @@ namespace Video_Frame_Colour_Compiler
                     if (currentFrame >= getLength()) { break; }
                     videoReader.Set(1, i+ j);
                     videoReader.Read(frame);
-                    Mat localFrame = frame;                                                        // some wierd c# quirks https://docs.microsoft.com/en-us/archive/blogs/ericlippert/closing-over-the-loop-variable-considered-harmful
+                    // TODO: reference of variables passed so duplicate or inaccurate threads made
+                    // some wierd c# quirks https://docs.microsoft.com/en-us/archive/blogs/ericlippert/closing-over-the-loop-variable-considered-harmful
+                    Mat localFrame = frame;
                     int localFrameCount = i + j;
                     calculator[j] = new Thread(() => rgbCalculator(localFrame, localFrameCount));
                     calculator[j].Name = "Calculator: " + (i + j).ToString();
@@ -131,7 +133,7 @@ namespace Video_Frame_Colour_Compiler
             }
             System.IO.File.WriteAllText(@outputFile, outputText);
             values = new Vec3b[0];
-            System.GC.Collect();                                                                   // force garbage collection
+            GC.Collect();                                                                   // force garbage collection
         }
         public bool getInputCorrect() { return inputCorrect; }
         public int getMaxThreads() { return maxThreadCount; }
